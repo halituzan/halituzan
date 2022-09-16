@@ -34,7 +34,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halituzan&theme=synthvave" />
   </a>
 <h2> My GitHub Stats </h2>
- <a href="https://github.com/halituzan?tab=repositories">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=halituzan&count_private=true&show_icons=true&theme=synthvave" />
-   </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halituzan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
