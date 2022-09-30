@@ -34,6 +34,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halituzan&theme=synthvave" />
   </a>
 <h2> My GitHub Stats </h2>
-<img src="https://streak-stats.demolab.com/?user=halituzan&theme=dark" alt="streaks">
+<img src="https://streak-stats.demolab.com/?user=halituzan&theme=light" alt="streaks">
 
 
