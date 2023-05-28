@@ -31,7 +31,4 @@
 <a href = 'https://halituzan.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/halituzan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> My GitHub Stats </h2>
-<img src="https://streak-stats.demolab.com/?user=halituzan&theme=light" alt="streaks">
-
 
