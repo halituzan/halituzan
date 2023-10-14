@@ -32,3 +32,8 @@
 <a href = 'https://www.github.com/halituzan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
+<h2> Most Used Languages </h2>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halituzan&layout=donut&langs_count=8) [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=halituzan)](https://halituzan.github.io)
+
+
